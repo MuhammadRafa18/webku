@@ -24,9 +24,7 @@ const item = {
   show: { opacity: 1, y: 0 },
 };
 
-/* =======================
-   COMPONENT
-======================= */
+
 export default function HeroSection() {
   const [wordIndex, setWordIndex] = useState(0);
   const [text, setText] = useState("");

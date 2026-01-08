@@ -19,8 +19,14 @@ const projects = [
   {
     title: "Sistem Dashboard Internal",
     description: "Dashboard manajemen data dan laporan real-time.",
-    image: "./portfolio.png",
-    url: "https://example.com",
+    image: "./dasboard.png",
+    url: "https://admin.sorekreatif.id/",
+  },
+    {
+    title: "Website Resep Makanan",
+    description: "Website resep makanan sederhana untuk personal brand atau UMKM kuliner, dengan tampilan menarik dan tautan langsung ke video YouTube sebagai konten utama.",
+    image: "./food.png",
+    url: "https://front-end-skill-test.vercel.app/",
   },
 ];
 

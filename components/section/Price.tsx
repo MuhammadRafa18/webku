@@ -13,11 +13,13 @@ const plans = [
   suitableFor:
     "UMKM, usaha baru, personal brand, jasa lokal yang butuh website cepat dan terjangkau.",
   features: [
-    "Landing page / website sederhana (1–3 halaman)",
+    "Landing page",
     "Desain rapi & mobile friendly",
     "Informasi bisnis, layanan, dan kontak",
     "Integrasi WhatsApp / tombol kontak",
     "Domain & hosting (opsional, sesuai kebutuhan)",
+    "Gratis konsultasi",
+
   ],
 },
 {
@@ -35,7 +37,8 @@ const plans = [
     "Form terhubung WhatsApp / Email",
     "Struktur konten rapi & SEO friendly",
     "Desain custom sesuai identitas brand",
-    "Performa & keamanan dasar",
+    "Performa & keamanan ",
+    "Gratis konsultasi",
   ],
 },
 {
@@ -49,7 +52,7 @@ const plans = [
   features: [
     "Fitur & sistem disesuaikan kebutuhan bisnis",
     "Dashboard kompleks & role user",
-    "Manajemen data (CRUD)",
+    "Manajemen data",
     "Visualisasi data (chart & laporan)",
     "Integrasi pembayaran, API, atau sistem pihak ketiga",
     "Diskusi & perancangan sistem sebelum development",
