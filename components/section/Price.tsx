@@ -86,7 +86,7 @@ export default function PricingSection() {
 
           <p className="mt-6 text-lg text-gray-600">
             Harga fleksibel dan dapat disesuaikan dengan kompleksitas serta
-            kebutuhan website Anda.
+            kebutuhan website Anda .
           </p>
         </motion.div>
 
