@@ -25,7 +25,7 @@ const plans = [
 {
   name: "Silver",
   price: "Rp 1.200.000 – Rp 3.400.000",
-  subtitle: "Website Profesional untuk Operasional Bisnis",
+  subtitle: "Website Profesional untuk Operasional Bisnis ",
   popular: true,
   description:
     "Website yang dirancang lebih matang untuk bisnis yang sudah berjalan dan ingin terlihat lebih serius, rapi, serta mudah dikelola.",
