@@ -17,7 +17,7 @@ const plans = [
     "Desain rapi & mobile friendly",
     "Informasi bisnis, layanan, dan kontak",
     "Integrasi WhatsApp / tombol kontak",
-    "Domain & hosting (opsional, sesuai kebutuhan)",
+    "Domain & hosting (opsional, sesuai kebutuhan) ",
     "Gratis konsultasi",
 
   ],
